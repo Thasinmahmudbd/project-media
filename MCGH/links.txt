@@ -11,3 +11,5 @@ OT end : https://rawcdn.githack.com/Thasinmahmudbd/project-media/2372b06c6d20f57
 Nurse end : https://rawcdn.githack.com/Thasinmahmudbd/project-media/2372b06c6d20f57442a02ab77dc3cf34aabd1282/MCGH/nurse%20end.gif
 
 Admin end : https://rawcdn.githack.com/Thasinmahmudbd/project-media/2372b06c6d20f57442a02ab77dc3cf34aabd1282/MCGH/admin%20end.gif
+
+Map : https://rawcdn.githack.com/Thasinmahmudbd/project-media/3bbfb2709262722c3a0e69cd6daa62008aaa2570/MCGH/map.gif
