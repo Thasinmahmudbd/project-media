@@ -13,3 +13,15 @@ Nurse end : https://rawcdn.githack.com/Thasinmahmudbd/project-media/2372b06c6d20
 Admin end : https://rawcdn.githack.com/Thasinmahmudbd/project-media/2372b06c6d20f57442a02ab77dc3cf34aabd1282/MCGH/admin%20end.gif
 
 Map : https://rawcdn.githack.com/Thasinmahmudbd/project-media/3bbfb2709262722c3a0e69cd6daa62008aaa2570/MCGH/map.gif
+
+Resized:----------------------------------------------------------------------------------------------------
+
+Map : https://rawcdn.githack.com/Thasinmahmudbd/project-media/7b95d423735b73db7f17a57127a37826af724f20/MCGH/map%20resized.gif
+
+Nurse end : https://rawcdn.githack.com/Thasinmahmudbd/project-media/7b95d423735b73db7f17a57127a37826af724f20/MCGH/nurse%20end%20resized.gif
+
+Admin end : https://rawcdn.githack.com/Thasinmahmudbd/project-media/336156a16ab31b86f24d59fdfb1f165b52174e15/MCGH/admin%20end%20resized.gif
+
+Accountant end : https://rawcdn.githack.com/Thasinmahmudbd/project-media/7b95d423735b73db7f17a57127a37826af724f20/MCGH/accountant%20end%20resized.gif
+
+User login : https://rawcdn.githack.com/Thasinmahmudbd/project-media/7b95d423735b73db7f17a57127a37826af724f20/MCGH/user%20login%20resized.gif
