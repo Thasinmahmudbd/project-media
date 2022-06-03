@@ -1,1 +1,1 @@
-<iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d47837.93173946127!2d91.12316111705725!3d23.469053691976196!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x37547f249815015b%3A0xc38b548542466e20!2smoynamoti%20cantonment%20general%20hospital!3m2!1d23.4823727!2d91.1170552!5e0!3m2!1sen!2sbd!4v1654276463623!5m2!1sen!2sbd" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
