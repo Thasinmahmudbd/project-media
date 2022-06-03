@@ -1,0 +1,13 @@
+User login : https://rawcdn.githack.com/Thasinmahmudbd/project-media/2372b06c6d20f57442a02ab77dc3cf34aabd1282/MCGH/user%20login.gif
+
+Doctor end : https://rawcdn.githack.com/Thasinmahmudbd/project-media/2372b06c6d20f57442a02ab77dc3cf34aabd1282/MCGH/doctor%20end.gif
+
+Receptionist end : https://rawcdn.githack.com/Thasinmahmudbd/project-media/2372b06c6d20f57442a02ab77dc3cf34aabd1282/MCGH/reception%20end.gif
+
+Accountant end : https://rawcdn.githack.com/Thasinmahmudbd/project-media/2372b06c6d20f57442a02ab77dc3cf34aabd1282/MCGH/accountant%20end.gif
+
+OT end : https://rawcdn.githack.com/Thasinmahmudbd/project-media/2372b06c6d20f57442a02ab77dc3cf34aabd1282/MCGH/ot%20end.gif
+
+Nurse end : https://rawcdn.githack.com/Thasinmahmudbd/project-media/2372b06c6d20f57442a02ab77dc3cf34aabd1282/MCGH/nurse%20end.gif
+
+Admin end : https://rawcdn.githack.com/Thasinmahmudbd/project-media/2372b06c6d20f57442a02ab77dc3cf34aabd1282/MCGH/admin%20end.gif
